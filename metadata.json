@@ -1,0 +1,6 @@
+{
+  "name": "Pocket Bot",
+  "description": "Trading bot for PocketOption with Javascript injection and strategies",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
